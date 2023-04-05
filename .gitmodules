@@ -1,0 +1,21 @@
+[submodule "ps3-ppu-binutils"]
+	path = ps3-ppu-binutils
+	url = https://aur.archlinux.org/ps3-ppu-binutils.git
+[submodule "ps3-ppu-gcc"]
+	path = ps3-ppu-gcc
+	url = https://aur.archlinux.org/ps3-ppu-gcc.git
+[submodule "ps3-psl1ght"]
+	path = ps3-psl1ght
+	url = https://aur.archlinux.org/ps3-psl1ght.git
+[submodule "ps3-spu-binutils"]
+	path = ps3-spu-binutils
+	url = https://aur.archlinux.org/ps3-spu-binutils.git
+[submodule "ps3-spu-gcc"]
+	path = ps3-spu-gcc
+	url = https://aur.archlinux.org/ps3-spu-gcc.git
+[submodule "ps3toolchain"]
+	path = ps3toolchain
+	url = https://aur.archlinux.org/ps3toolchain.git
+[submodule "ps3-zlib"]
+	path = ps3-zlib
+	url = https://aur.archlinux.org/ps3-zlib.git
