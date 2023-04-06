@@ -19,3 +19,9 @@
 [submodule "ps3-zlib"]
 	path = ps3-zlib
 	url = https://aur.archlinux.org/ps3-zlib.git
+[submodule "ps3-zstd"]
+	path = ps3-zstd
+	url  = https://aur.archlinux.org/ps3-zstd.git
+[submodule "ps3-ffmpeg-libs"]
+	path = ps3-ffmpeg-libs
+	url  = https://aur.archlinux.org/ps3-ffmpeg-libs.git
