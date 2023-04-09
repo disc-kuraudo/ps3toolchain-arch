@@ -25,3 +25,6 @@
 [submodule "ps3-ffmpeg-libs"]
 	path = ps3-ffmpeg-libs
 	url  = https://aur.archlinux.org/ps3-ffmpeg-libs.git
+[submodule "ps3-env"]
+	path = ps3-env
+	url  = https://aur.archlinux.org/ps3-env.git
