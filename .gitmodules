@@ -28,3 +28,6 @@
 [submodule "ps3-env"]
 	path = ps3-env
 	url  = https://aur.archlinux.org/ps3-env.git
+[submodule "ps3libraries"]
+	path = ps3libraries
+	url  = https://aur.archlinux.org/ps3libraries.git
